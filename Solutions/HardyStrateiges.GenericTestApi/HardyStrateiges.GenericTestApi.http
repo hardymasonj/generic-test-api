@@ -1,0 +1,6 @@
+@HardyStrateiges.GenericTestApi_HostAddress = http://localhost:5214
+
+GET {{HardyStrateiges.GenericTestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
